@@ -1,0 +1,13 @@
+Recently, new generative models have been developed to generate 3D meshes from images. One of
+them is Nvidia’s GET3D, whose paper and code is publicly available in the previous link, in addition to
+some videos.
+
+We propose that you try to understand the method of the paper (at least at a high level) and then
+download the open-source repository and test it. First follow the instructions to perform the basic
+example tests (e.g. generating 3D meshes with a pre-trained diffusion model). Then you can
+experiment with other generations. Can you find any type of 3D meshes that the model fails to
+generate with a good level of quality? Can you identify why, analysing the paper or the code? Be
+ready to show us your findings with screen sharing during the follow-up call.
+Do you think GET3D is ready to generate high-quality meshes from just one, single image, without
+any additional metadata? Be ready to discuss this topic with our team in the follow-up call.
+Understanding the pros and cons of GET3D can help you prepare an answer.
